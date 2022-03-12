@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {}
+    "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {
+    "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj",
+        "projectUniqueName": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj",
         "projectName": "Zakupy",
-        "projectPath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj",
+        "projectPath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj",
         "packagesPath": "C:\\Users\\Konrad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\obj\\",
+        "outputPath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

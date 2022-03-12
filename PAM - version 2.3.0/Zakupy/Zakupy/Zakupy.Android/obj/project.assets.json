@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
       "projectName": "Zakupy.Android",
-      "projectPath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
+      "projectPath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
       "packagesPath": "C:\\Users\\Konrad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\obj\\",
+      "outputPath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {
-              "projectPath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj"
+            "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj": {
+              "projectPath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy\\Zakupy.csproj"
             }
           }
         }

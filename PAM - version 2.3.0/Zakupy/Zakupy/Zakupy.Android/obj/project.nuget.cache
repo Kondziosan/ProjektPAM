@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCrm2RxG1AHDFyZX/YWbQYpKhEm24n2RGeM/YMObi3rT7Eg9ftIvh+ilXHE0efKHHIW+JDpHBGDN1KGmLaQfig==",
+  "dgSpecHash": "ipAhUARi7aryhnsZlU8Q5evfhRGAga9pUqPxkDUTaJl1Yt49CaRJ3hLWOcWx9/yRzdZfmlFrBdB9+h0PQOLOZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Konrad\\Desktop\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
+  "projectFilePath": "C:\\Users\\Konrad\\Desktop\\ProjektPAM\\PAM - version 2.3.0\\Zakupy\\Zakupy\\Zakupy.Android\\Zakupy.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Konrad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Konrad\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
